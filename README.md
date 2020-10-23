@@ -13,7 +13,7 @@
 O Projeto consiste na visualização do algoritmo de Dividir para conquistar, onde durante a execução do projeto um array é ordenado de forma visual para o usuário.
 
 ## Screenshots
-
+![image example](./image.png)
 
 
 ## Execução
